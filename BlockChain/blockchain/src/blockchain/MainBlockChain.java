@@ -3,7 +3,7 @@ package blockchain;
 import java.util.ArrayList;
 import com.google.gson.GsonBuilder;
 
-public class DweebChain {
+public class MainBlockChain {
 	
 	public static ArrayList<Block> blockChain = new ArrayList<Block>();
 	public static int difficulty = 5;
